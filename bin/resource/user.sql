@@ -1,0 +1,1 @@
+create table USERTABLE(name varchar2(20), username varchar2(14),password varchar2(15),organization varchar2(20), dateofbirth varchar2(20),mobile varchar2(15))
